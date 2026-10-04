@@ -1,0 +1,7 @@
+search 2 -> 0
+search 23 -> 5
+search 91 -> 9
+search 7 -> -1
+search 56 -> 7
+search 72 -> 8
+search 42 in single -> 0

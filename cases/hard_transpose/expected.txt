@@ -1,0 +1,8 @@
+3x3 transposed:
+  1  4  7
+  2  5  8
+  3  6  9
+2x3 transposed (now 3x2):
+  1  4
+  2  5
+  3  6

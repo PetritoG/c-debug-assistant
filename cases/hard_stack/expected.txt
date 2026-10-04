@@ -1,0 +1,10 @@
+pushed 10
+pushed 20
+pushed 30
+pushed 40
+push 50 failed: stack full
+push 60 failed: stack full
+popped 40
+popped 30
+popped 20
+popped 10

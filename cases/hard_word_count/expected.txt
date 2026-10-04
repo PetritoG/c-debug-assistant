@@ -1,0 +1,6 @@
+"hello world" -> 2 words
+"  leading and trailing  " -> 3 words
+"one" -> 1 words
+"" -> 0 words
+"a  b   c" -> 3 words
+"   " -> 0 words

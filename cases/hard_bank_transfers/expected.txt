@@ -1,0 +1,9 @@
+transfer 1: alice -> bob 2500 cents: ok
+transfer 2: bob -> carol 10000 cents: rejected
+transfer 3: carol -> alice 500 cents: rejected
+transfer 4: bob -> carol 5050 cents: ok
+transfer 5: alice -> carol 7500 cents: ok
+transfer 6: alice -> bob 1 cents: rejected
+alice     0.00
+bob       0.00
+carol   125.50

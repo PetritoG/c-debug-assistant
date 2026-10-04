@@ -1,0 +1,5 @@
+parsed 4 entries
+width -> 80
+height -> 24
+depth -> 8
+scale -> 3
